@@ -20,36 +20,35 @@ After completion of the initial analysis, academic dishonesty was reported withi
 ![table: school statistics listed by school](img/overall-stats.png)
 
 ### Highest Performing Schools
-#### *Based on percentage of students passing __both__ math and reading*
+##### *Based on percentage of students passing __both__ math and reading*
 ![table: top 5 schools](img/perf-top.png)
 
 ### Lowest Performing Schools
-#### *Based on percentage of students passing __both__ math and reading*
+##### *Based on percentage of students passing __both__ math and reading*
 ![table: bottom 5 schools](img/perf-low.png)
 
 ## Analysis 
-### Test Scores by Grade -- Math
-![table: math test scores for each school by grade](img/math-by-grade.png)
-
-### Test Scores by Grade -- Reading
-![table: reading test scores for each school by grade](img/read-by-grade.png)
-
+### Test Scores by Grade
 > Test scores show very little change over time within each school. Schools that have higher scores remain constantly high, schools with lower scores are equally steady. 
 
-### Test Scores by Budget -- Per Student Spending
-![table: test scores by overall school spending](img/spend.png)
+| Math | Reading |
+| :---: | :---: |
+|![table: math test scores for each school by grade](img/math-by-grade.png) | ![table: reading test scores for each school by grade](img/read-by-grade.png) |
 
+### Test Scores by Budget -- Per Student Spending
 > Interestingly, the highest performing schools were the ones with the lowest per-student spend. This raises many questions, such as: if schools with higher per-student budgets are performing poorly, is this an indication of misappropriated funding? Can the budgets of these high-spend, low-performance schools be re-allocated to increase academic performance? 
 
-### Test Scores by School Size -- Total Student Population
-![table: test scores by school size](img/size.png)
+![table: test scores by overall school spending](img/spend.png)
 
+### Test Scores by School Size -- Total Student Population
 > Unsurprisingly, the largest schools performed significantly lower than schools with lower populations. While exact class sizes are not known based on the data shown, it is a safe assumption student to teacher ratios are higher in the larger schools -- a factor that has been shown to contribute to lower student performance on standardized tests. 
 
-### Test Scores by School Type -- Charter vs. District
-![table: test scores by school type](img/type.png)
+![table: test scores by school size](img/size.png)
 
+### Test Scores by School Type -- Charter vs. District
 > Equally unsurprising, Charter schools out perform District schools almost 2 to 1 when comparing the number of students who are passing both math and reading. Again, student to teacher ratios and budget allocation are likely large contributors to these results. 
+
+![table: test scores by school type](img/type.png)
 
 ## Academic Dishonesty
 A total of 461 students -- 0.012% of the school district -- were involved with the alleged grade altering. These students' grades were removed from the final analysis to prevent inaccurate reporting in our analysis. 

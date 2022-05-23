@@ -20,11 +20,11 @@ After completion of the initial analysis, academic dishonesty was reported withi
 ![table: school statistics listed by school](img/overall-stats.png)
 
 ### Highest Performing Schools
-##### *Based on percentage of students passing __both__ math and reading*
+*Based on percentage of students passing __both__ math and reading*
 ![table: top 5 schools](img/perf-top.png)
 
 ### Lowest Performing Schools
-##### *Based on percentage of students passing __both__ math and reading*
+*Based on percentage of students passing __both__ math and reading*
 ![table: bottom 5 schools](img/perf-low.png)
 
 ## Analysis 
